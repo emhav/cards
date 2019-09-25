@@ -23,6 +23,7 @@ if($_SESSION['username'] == 'username') {
  echo "0 results";
  }
  print("<br><br>");
+
  print("Insert new");
  print("<form action=\"save.php\" method=\"post\">");
  print("<br>");
